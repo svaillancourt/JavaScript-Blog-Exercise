@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+body {
+    background-image: url("../img/background.jpg");
+    background-color: #cccccc;
+  }
+
+h1{
+    color: indigo;
+    background-color: white;
+    min-width: fit-content;
+
+    opacity: 1;
+
+    font-size: 8vh;
+    font-weight: bold;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h3{
+    color: teal;
+    background-color: white;
+    min-width: fit-content;
+
+    font-size: 3vh;
+    font-weight: bold;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p{
+    color: black;
+    background-color: white;
+    
+    line-height: 2.0;
+}
